@@ -4,8 +4,6 @@
  *
  * main - Printing
  *
- * function - main
- *
  *Description: this just prints a line of text i put there
  *
  * Return: the return value should be zero
