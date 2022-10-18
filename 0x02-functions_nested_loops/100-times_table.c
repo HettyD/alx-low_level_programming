@@ -3,7 +3,7 @@
 int _putchar(char c);
 
 /**
-* print_times_table - print the times table until n
+* print_times_table - prints the n times table
 * @n: n times table
 * Return: No return
 */
