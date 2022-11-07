@@ -13,7 +13,7 @@ char *str_concat(char *s1, char *s2)
 	char *new_str, *starts1, *starts2;
 
 	int i = 0, lens1 = 0, lens2 = 0;
-
+	
 	starts1 = s1;
 	starts2 = s2;
 	if (s1 == NULL)
@@ -51,4 +51,6 @@ char *str_concat(char *s1, char *s2)
 	}
 	new_str[i] = '\0';
 	return (starts1);
+
 }
+
