@@ -1,5 +1,6 @@
 #ifndef SIMPLE_OPS
 #define SIMPLE_OPS
+
 #include <stdlib.h>
 #include <stdio.h>
 

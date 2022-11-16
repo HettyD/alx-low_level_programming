@@ -6,8 +6,8 @@
  * @argv: argument vector.
  * Return: Always 0.
  */
-
 int main(int argc, char *argv[])
+
 {
 	int a, b;
 	int (*operation)(int, int);
