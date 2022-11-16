@@ -6,6 +6,7 @@
  * @b: second number
  * Return: the added sum
 */
+
 int op_add(int a, int b)
 {
 	return (a + b);
